@@ -1,0 +1,115 @@
+.highcount{
+	color: white;
+	background: blue;
+	border-radius: 100%;
+	height: 100px;
+	width: 100px;
+	margin-bottom: 2px;
+	text-align: center;
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding-left: 0px; 
+	font-weight: 500;
+}
+.highlights{
+}
+.p3 div{
+	float:left;
+}
+.num{
+	font-weight: 600;
+}
+.blue{
+	color: blue;
+}
+.header{
+
+}
+.brand{
+	width: 450px;
+}
+.brand h3{
+	font-size: 19px;
+	font-weight: 600
+}
+.brand h1{
+	font-size: 25px;
+}
+.header img{
+	width: 100px;
+	height: 100px;
+}
+.navbar-dark{
+	color: white;
+	font-weight: 600
+}
+.navbar-dark .navbar-nav .nav-link{
+	color: white;
+}
+.active1{
+	color: black;
+	background-color: black;
+	border-radius: 3px;
+}
+.p1, .p2 , .p3{
+	background-color: rgb(230, 242, 255);
+
+}
+#header{
+  width: 100%;
+  height: 100vh;
+  .carousel{
+    height: 100%;
+    .carousel-inner{
+      height: 100%;
+      .carousel-item{
+        height: 100%;
+        .title{
+          position: absolute;
+          text-align: center;
+          width: 100%;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%,-50%);
+          color: #fff;
+          h1{
+            font-size: 5rem;
+          }
+          .animated {
+            animation-duration: 1.3s;
+            animation-delay: .5s;
+          }
+        }
+        img{
+          object-fit: cover;
+          height: 100%;
+        }
+      }
+    }
+  }
+}
+.upnext h2{
+	color: white;
+	background: black;
+	width: 100%;
+	text-align: center;
+}
+.evDetail{
+	border: 2px solid purple;
+	width: 100%;
+	height: 100px;
+	border-radius: 3px;
+}
+.hkm , .tkm{
+	color: white;
+	background: black;
+	width: 100%;
+	text-align: center;
+}
+.abc{
+	color: white;
+	background: black;
+	width: 100%;
+	text-align: center;
+}
